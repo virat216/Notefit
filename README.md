@@ -1,4 +1,4 @@
-# 📒 Notefit1 — Modern Android Notes App
+![Home Screen](https://github.com/user-attachments/assets/eed578cd-7eaf-4a2d-8f0b-e0c9cbee87ab)# 📒 Notefit1 — Modern Android Notes App
 
 **Notefit1** is a modern Android notes application built using **Kotlin and Jetpack Compose**.
 It provides a clean Material 3 UI with powerful productivity features like reminders, note pinning, search, sorting, and dark mode support.
@@ -46,7 +46,32 @@ This ensures separation of concerns and maintainable code.
 
 ## 📱 Screenshots
 
-(Add screenshots here — see instructions below)
+### 🏠 Home Screen
+![Home](Screenshots/Home Screen.jpeg)
+
+### 🔍 Search Notes
+![Search](Screenshots/Search Feature.jpeg)
+
+### 🌙 Dark Mode
+![Dark Mode](Screenshots/Dark theme.jpeg)
+
+### ➕ Add Note
+![Add Note](Screenshots/Add note.jpeg)
+
+### ✏️ Edit Note
+![Edit Note](Screenshots/edit.png)
+
+### 📌 Pin Notes
+![Pin](Screenshots/pin.png)
+
+### 🔔 Reminder Feature
+![Reminder](Screenshots/reminder.png)
+
+### 📃 List View
+![List View](Screenshots/list.png)
+
+### 🔽 Sort Notes
+![Sort](Screenshots/sort.png)
 
 ---
 
