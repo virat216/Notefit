@@ -1,4 +1,4 @@
-![Home Screen](https://github.com/user-attachments/assets/eed578cd-7eaf-4a2d-8f0b-e0c9cbee87ab)# 📒 Notefit1 — Modern Android Notes App
+📒 Notefit1 — Modern Android Notes App
 
 **Notefit1** is a modern Android notes application built using **Kotlin and Jetpack Compose**.
 It provides a clean Material 3 UI with powerful productivity features like reminders, note pinning, search, sorting, and dark mode support.
@@ -47,31 +47,34 @@ This ensures separation of concerns and maintainable code.
 ## 📱 Screenshots
 
 ### 🏠 Home Screen
-![Home](Screenshots/Home Screen.jpeg)
-
-### 🔍 Search Notes
-![Search](Screenshots/Search Feature.jpeg)
-
-### 🌙 Dark Mode
-![Dark Mode](Screenshots/Dark theme.jpeg)
+![Home](Screenshots/Home.jpeg)
 
 ### ➕ Add Note
-![Add Note](Screenshots/Add note.jpeg)
+![Add](Screenshots/Add.jpeg)
 
 ### ✏️ Edit Note
-![Edit Note](Screenshots/edit.png)
+![Edit](Screenshots/Edit.jpeg)
 
-### 📌 Pin Notes
-![Pin](Screenshots/pin.png)
-
-### 🔔 Reminder Feature
-![Reminder](Screenshots/reminder.png)
+### 🔍 Search Notes
+![Search](Screenshots/Search.jpeg)
 
 ### 📃 List View
-![List View](Screenshots/list.png)
+![List](Screenshots/List.jpeg)
 
-### 🔽 Sort Notes
-![Sort](Screenshots/sort.png)
+### 🌙 Dark Mode
+![Dark](Screenshots/Dark.jpeg)
+
+### ☀️ Light Theme
+![Light](Screenshots/Light theme.jpeg)
+
+### 🗑 Delete Note
+![Delete](Screenshots/Delete.jpeg)
+
+### 🔔 Reminder Notification
+![Reminder](Screenshots/Remainder.jpeg)
+
+### ⏰ Set Reminder
+![Reminder Set](Screenshots/Remainder_set.jpeg)
 
 ---
 
