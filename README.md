@@ -47,25 +47,25 @@ This ensures separation of concerns and maintainable code.
 ## 📱 Screenshots
 
 ### 🏠 Home Screen
-![Home](Screenshots/Home.jpeg)
+<img src="Screenshots/Home.jpeg" width="300"/>
 
 ### ➕ Add Note
-![Add](Screenshots/Add.jpeg)
+<img src="Screenshots/Add.jpeg" width="300"/>
 
 ### ✏️ Edit Note
-![Edit](Screenshots/Edit.jpeg)
+<img src="Screenshots/Edit.jpeg" width="300"/>
 
 ### 🔍 Search Notes
-![Search](Screenshots/Search.jpeg)
+<img src="Screenshots/Search.jpeg" width="300"/>
 
-### 📃 List View
-![List](Screenshots/List.jpeg)
+### 📋 List View
+<img src="Screenshots/List.jpeg" width="300"/>
 
 ### 🌙 Dark Mode
-![Dark](Screenshots/Dark.jpeg)
+<img src="Screenshots/Dark.jpeg" width="300"/>
 
 ### ☀️ Light Theme
-![Light](Screenshots/Light theme.jpeg)
+<img src="Screenshots/Light theme.jpeg" width="300"/>
 
 ### 🗑 Delete Note
 ![Delete](Screenshots/Delete.jpeg)
