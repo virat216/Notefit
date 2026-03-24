@@ -68,13 +68,13 @@ This ensures separation of concerns and maintainable code.
 <img src="Screenshots/Light theme.jpeg" width="300"/>
 
 ### 🗑 Delete Note
-![Delete](Screenshots/Delete.jpeg)
+<img src ="Screenshots/Delete.jpeg" width="300"/>
 
 ### 🔔 Reminder Notification
-![Reminder](Screenshots/Remainder.jpeg)
+<img src ="Screenshots/Remainder.jpeg" width="300"/>
 
 ### ⏰ Set Reminder
-![Reminder Set](Screenshots/Remainder_set.jpeg)
+<img src ="Screenshots/Remainder_set.jpeg" width="300"/>
 
 ---
 
